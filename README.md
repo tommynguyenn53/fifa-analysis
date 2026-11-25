@@ -1,6 +1,6 @@
 # FIFA World Cup 2022 - Argentina Performance Analysis
 
-**University of Sydney | DATA1001 | May 2023 | Grade: High Distinction (14/15)**
+**University of Sydney | Grade: High Distinction (14/15)**
 
 ## Overview
 
